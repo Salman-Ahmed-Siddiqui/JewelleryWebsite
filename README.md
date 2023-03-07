@@ -1,3 +1,3 @@
 # JewelleryWebsite
 Jewelry Website 
-![image](https://user-images.githubusercontent.com/120651244/223344723-920d9c99-cc18-45ff-adfa-3a0759d28733.png)
+![image](https://user-images.githubusercontent.com/120651244/223345177-acc12e27-913e-45a4-84a8-5b2d24853656.png)
